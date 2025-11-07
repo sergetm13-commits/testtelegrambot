@@ -34,6 +34,7 @@ dist/
 build/
 
 # Backend specific
+backend/
 backend/node_modules/
 backend/.env
 backend/.env.local
